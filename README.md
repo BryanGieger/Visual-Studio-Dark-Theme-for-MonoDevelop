@@ -1,6 +1,6 @@
 #### English
 # Visual Studio Dark Theme For [MonoDevelop](https://www.monodevelop.com/)
-> The Visual Studio Dark theme for MonoDevelop!
+> The Visual Studio 2017 Dark theme for [MonoDevelop](https://www.monodevelop.com/)!
 
 ![Screenshot](https://i.imgur.com/buiqo4Z.jpg)
 
@@ -14,7 +14,7 @@
 ## Author
 ![BryanGieger](https://imgur.com/9xFavuy.jpg) |
 --- |
-BryanGieger|
+[BryanGieger](https://github.com/BryanGieger)|
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -23,7 +23,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 #### Spanish
 # Tema Oscuro de Visual Studio para [MonoDevelop](https://www.monodevelop.com/)
-> El tema oscuro de Visual Studio para [MonoDevelop](https://www.monodevelop.com/)!
+> El tema oscuro de Visual Studio 2017 para [MonoDevelop](https://www.monodevelop.com/)!
 
 ![Screenshot](https://i.imgur.com/buiqo4Z.jpg)
 
@@ -37,7 +37,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Autor
 ![BryanGieger](https://imgur.com/9xFavuy.jpg) |
 --- |
-BryanGieger|
+[BryanGieger](https://github.com/BryanGieger)|
 
 ## Licencia
 Este proyecto esta bajo la licencia de MIT License - mira [LICENSE](LICENSE) para mas detalles.
